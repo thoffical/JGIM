@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="hbo-movies" tvg-name="HBO Movies (HD)" group-title="Movies",HBO Movies (HD)
+#EXTINF:-1 tvg-id="hbo-movies" tvg-name="HBO Movies (HD)" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.fBNf1EB2x8djc8HDCjtEfQHaHa%3Fr%3D0%26pid%3DApi&f=1&ipt=8f086cbece7f5e8b94d292ff417e1525465a28538d522bc0d71a3fa2c89cfba6&ipo=images" group-title="Movies",HBO Movies (HD)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc-world-news" tvg-name="BBC World News" group-title="News",BBC World News
+#EXTINF:-1 tvg-id="bbc-world-news" tvg-name="BBC World News" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.wkiTX11xPMfvl2DW6LUCEAHaFj%3Fr%3D0%26pid%3DApi&f=1&ipt=504c117630e1e00421007670564a6ac5e263b0028f24f0245801f3cbc7dd7ea9&ipo=images" group-title="News",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="yahoo-finance" tvg-name="Yahoo Finance" group-title="Business",Yahoo Finance
+#EXTINF:-1 tvg-id="yahoo-finance" tvg-name="Yahoo Finance" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.BX6_Q5Ox6cjG8mCQCAjN5gHaDG%3Fr%3D0%26pid%3DApi&f=1&ipt=266833c1ab7ec79e4c987567402eeda1e7085899a2c7a7990a3cc7a3d1c53657&ipo=images" group-title="Business",Yahoo Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Kids",Cartoonito (DEAD)
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.yOhvhjrlV2PUW6HlCwJDHAHaEK%3Fpid%3DApi&f=1&ipt=8b540406c4b059828ef14c8cb2b95c6f3c2fd0ef2dbaca4f5b9cb9ffc10c05b8&ipo=images" group-title="Kids",Cartoonito (DEAD)
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
